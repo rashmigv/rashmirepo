@@ -1,0 +1,12 @@
+# Python-related files
+__pycache__/
+*.pyc
+
+# Virtual environment folder
+venv/
+
+# Database file
+*.db
+
+# Other files you might want to ignore
+.DS_Store
